@@ -1,4 +1,29 @@
-This repository is a compilation of some of the data analysis I have done in python for tabular data. 
-It shows some of the experience I have using the numpy, pandas, matplotlib, seaborn and sklearn libraries in python. 
-For some codes, the datasets have been lost. These codes are for presentation of my thought processes.
-For the majority of codes in this repository I have also uploaded the datasets along with them.
+# Data Analysis Projects in Python
+
+Welcome to my repository! This is a collection of data analysis projects I have completed in Python, focusing on tabular data. These projects showcase my experience with the following Python libraries:
+
+- **NumPy**: Numerical computations.
+- **Pandas**: Data manipulation and analysis.
+- **Matplotlib** and **Seaborn**: Data visualization.
+<!-- **Scikit-learn (sklearn)**: Machine learning and predictive modeling.-->
+
+## Repository Contents
+
+1. **Cause of Death Analysis**
+   - Explores cause-of-death data for Utah and the United States.
+   - Involves cleaning, processing, and visualizing trends to uncover patterns.
+
+2. **Admission Algorithm**
+   - Implements an algorithm to evaluate student admissions.
+   - Provides scores for students and generates decision rankings based on these scores.
+
+3. **Netflix Usage Analysis**
+   - Tracks and analyzes my Netflix viewing habits.
+   - Determines peak times and patterns for when I watched Netflix the most.
+
+## Notes
+
+- For most projects, the datasets are included in the repository to facilitate reproducibility.
+- Some projects include only code as the original datasets have been lost. These examples are shared to illustrate my thought processes and analytical approaches.
+
+Feel free to explore the code, datasets, and visualizations. Feedback and suggestions are welcome!
