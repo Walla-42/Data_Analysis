@@ -25,5 +25,7 @@ Welcome to my repository! This is a collection of data analysis projects I have 
 
 - For most projects, the datasets are included in the repository to facilitate reproducibility.
 - Some projects include only code as the original datasets have been lost. These examples are shared to illustrate my thought processes and analytical approaches.
+- Most data analysis projects I have done are on my DataCamp profile which can be accessed here [![DataCamp](https://img.shields.io/badge/DataCamp-black?style=flat&logo=DataCamp&logoColor=Green&textColor=white)](https://www.datacamp.com/portfolio/loganpwallace)
+
 
 Feel free to explore the code, datasets, and visualizations. Feedback and suggestions are welcome!
